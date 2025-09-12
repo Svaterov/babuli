@@ -1,0 +1,16 @@
+# Вариант а)
+print("а)")
+print("2 кг")
+print("13 17")
+print()
+
+# Вариант б)
+print("б)")
+print("a 1")
+print("19 b")
+print()
+
+# Вариант в)
+print("в)")
+print("x y")
+print("5 y")

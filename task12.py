@@ -1,0 +1,16 @@
+# Вариант а)
+print("а)")
+print("5 10")
+print("7 см")
+print()
+
+# Вариант б)
+print("б)")
+print("100 t")
+print("1949 v")
+print()
+
+# Вариант в)
+print("в)")
+print("x 25")
+print("x y")
